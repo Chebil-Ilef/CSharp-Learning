@@ -1,0 +1,15 @@
+C:\Users\msi\OneDrive\Bureau\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Strings\Parsing\bin\Debug\net7.0\Parsing.exe
+C:\Users\msi\OneDrive\Bureau\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Strings\Parsing\bin\Debug\net7.0\Parsing.deps.json
+C:\Users\msi\OneDrive\Bureau\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Strings\Parsing\bin\Debug\net7.0\Parsing.runtimeconfig.json
+C:\Users\msi\OneDrive\Bureau\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Strings\Parsing\bin\Debug\net7.0\Parsing.dll
+C:\Users\msi\OneDrive\Bureau\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Strings\Parsing\bin\Debug\net7.0\Parsing.pdb
+C:\Users\msi\OneDrive\Bureau\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Strings\Parsing\obj\Debug\net7.0\Parsing.csproj.AssemblyReference.cache
+C:\Users\msi\OneDrive\Bureau\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Strings\Parsing\obj\Debug\net7.0\Parsing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msi\OneDrive\Bureau\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Strings\Parsing\obj\Debug\net7.0\Parsing.AssemblyInfoInputs.cache
+C:\Users\msi\OneDrive\Bureau\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Strings\Parsing\obj\Debug\net7.0\Parsing.AssemblyInfo.cs
+C:\Users\msi\OneDrive\Bureau\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Strings\Parsing\obj\Debug\net7.0\Parsing.csproj.CoreCompileInputs.cache
+C:\Users\msi\OneDrive\Bureau\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Strings\Parsing\obj\Debug\net7.0\Parsing.dll
+C:\Users\msi\OneDrive\Bureau\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Strings\Parsing\obj\Debug\net7.0\refint\Parsing.dll
+C:\Users\msi\OneDrive\Bureau\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Strings\Parsing\obj\Debug\net7.0\Parsing.pdb
+C:\Users\msi\OneDrive\Bureau\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Strings\Parsing\obj\Debug\net7.0\Parsing.genruntimeconfig.cache
+C:\Users\msi\OneDrive\Bureau\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Strings\Parsing\obj\Debug\net7.0\ref\Parsing.dll

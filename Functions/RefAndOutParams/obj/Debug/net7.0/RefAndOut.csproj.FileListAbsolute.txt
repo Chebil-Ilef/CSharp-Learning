@@ -1,0 +1,15 @@
+C:\Users\msi\OneDrive\Bureau\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Functions\RefAndOutParams\bin\Debug\net7.0\RefAndOut.exe
+C:\Users\msi\OneDrive\Bureau\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Functions\RefAndOutParams\bin\Debug\net7.0\RefAndOut.deps.json
+C:\Users\msi\OneDrive\Bureau\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Functions\RefAndOutParams\bin\Debug\net7.0\RefAndOut.runtimeconfig.json
+C:\Users\msi\OneDrive\Bureau\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Functions\RefAndOutParams\bin\Debug\net7.0\RefAndOut.dll
+C:\Users\msi\OneDrive\Bureau\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Functions\RefAndOutParams\bin\Debug\net7.0\RefAndOut.pdb
+C:\Users\msi\OneDrive\Bureau\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Functions\RefAndOutParams\obj\Debug\net7.0\RefAndOut.csproj.AssemblyReference.cache
+C:\Users\msi\OneDrive\Bureau\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Functions\RefAndOutParams\obj\Debug\net7.0\RefAndOut.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msi\OneDrive\Bureau\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Functions\RefAndOutParams\obj\Debug\net7.0\RefAndOut.AssemblyInfoInputs.cache
+C:\Users\msi\OneDrive\Bureau\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Functions\RefAndOutParams\obj\Debug\net7.0\RefAndOut.AssemblyInfo.cs
+C:\Users\msi\OneDrive\Bureau\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Functions\RefAndOutParams\obj\Debug\net7.0\RefAndOut.csproj.CoreCompileInputs.cache
+C:\Users\msi\OneDrive\Bureau\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Functions\RefAndOutParams\obj\Debug\net7.0\RefAndOut.dll
+C:\Users\msi\OneDrive\Bureau\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Functions\RefAndOutParams\obj\Debug\net7.0\refint\RefAndOut.dll
+C:\Users\msi\OneDrive\Bureau\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Functions\RefAndOutParams\obj\Debug\net7.0\RefAndOut.pdb
+C:\Users\msi\OneDrive\Bureau\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Functions\RefAndOutParams\obj\Debug\net7.0\RefAndOut.genruntimeconfig.cache
+C:\Users\msi\OneDrive\Bureau\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Functions\RefAndOutParams\obj\Debug\net7.0\ref\RefAndOut.dll

@@ -1,0 +1,15 @@
+C:\Users\msi\OneDrive\Bureau\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Program Flow\WhileLoops\bin\Debug\net7.0\WhileLoops.exe
+C:\Users\msi\OneDrive\Bureau\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Program Flow\WhileLoops\bin\Debug\net7.0\WhileLoops.deps.json
+C:\Users\msi\OneDrive\Bureau\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Program Flow\WhileLoops\bin\Debug\net7.0\WhileLoops.runtimeconfig.json
+C:\Users\msi\OneDrive\Bureau\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Program Flow\WhileLoops\bin\Debug\net7.0\WhileLoops.dll
+C:\Users\msi\OneDrive\Bureau\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Program Flow\WhileLoops\bin\Debug\net7.0\WhileLoops.pdb
+C:\Users\msi\OneDrive\Bureau\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Program Flow\WhileLoops\obj\Debug\net7.0\WhileLoops.csproj.AssemblyReference.cache
+C:\Users\msi\OneDrive\Bureau\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Program Flow\WhileLoops\obj\Debug\net7.0\WhileLoops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msi\OneDrive\Bureau\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Program Flow\WhileLoops\obj\Debug\net7.0\WhileLoops.AssemblyInfoInputs.cache
+C:\Users\msi\OneDrive\Bureau\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Program Flow\WhileLoops\obj\Debug\net7.0\WhileLoops.AssemblyInfo.cs
+C:\Users\msi\OneDrive\Bureau\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Program Flow\WhileLoops\obj\Debug\net7.0\WhileLoops.csproj.CoreCompileInputs.cache
+C:\Users\msi\OneDrive\Bureau\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Program Flow\WhileLoops\obj\Debug\net7.0\WhileLoops.dll
+C:\Users\msi\OneDrive\Bureau\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Program Flow\WhileLoops\obj\Debug\net7.0\refint\WhileLoops.dll
+C:\Users\msi\OneDrive\Bureau\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Program Flow\WhileLoops\obj\Debug\net7.0\WhileLoops.pdb
+C:\Users\msi\OneDrive\Bureau\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Program Flow\WhileLoops\obj\Debug\net7.0\WhileLoops.genruntimeconfig.cache
+C:\Users\msi\OneDrive\Bureau\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Program Flow\WhileLoops\obj\Debug\net7.0\ref\WhileLoops.dll

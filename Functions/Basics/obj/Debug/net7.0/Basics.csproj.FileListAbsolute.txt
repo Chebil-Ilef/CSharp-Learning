@@ -1,0 +1,15 @@
+C:\Users\msi\OneDrive\Bureau\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Functions\Basics\bin\Debug\net7.0\Basics.exe
+C:\Users\msi\OneDrive\Bureau\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Functions\Basics\bin\Debug\net7.0\Basics.deps.json
+C:\Users\msi\OneDrive\Bureau\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Functions\Basics\bin\Debug\net7.0\Basics.runtimeconfig.json
+C:\Users\msi\OneDrive\Bureau\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Functions\Basics\bin\Debug\net7.0\Basics.dll
+C:\Users\msi\OneDrive\Bureau\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Functions\Basics\bin\Debug\net7.0\Basics.pdb
+C:\Users\msi\OneDrive\Bureau\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Functions\Basics\obj\Debug\net7.0\Basics.csproj.AssemblyReference.cache
+C:\Users\msi\OneDrive\Bureau\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Functions\Basics\obj\Debug\net7.0\Basics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msi\OneDrive\Bureau\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Functions\Basics\obj\Debug\net7.0\Basics.AssemblyInfoInputs.cache
+C:\Users\msi\OneDrive\Bureau\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Functions\Basics\obj\Debug\net7.0\Basics.AssemblyInfo.cs
+C:\Users\msi\OneDrive\Bureau\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Functions\Basics\obj\Debug\net7.0\Basics.csproj.CoreCompileInputs.cache
+C:\Users\msi\OneDrive\Bureau\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Functions\Basics\obj\Debug\net7.0\Basics.dll
+C:\Users\msi\OneDrive\Bureau\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Functions\Basics\obj\Debug\net7.0\refint\Basics.dll
+C:\Users\msi\OneDrive\Bureau\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Functions\Basics\obj\Debug\net7.0\Basics.pdb
+C:\Users\msi\OneDrive\Bureau\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Functions\Basics\obj\Debug\net7.0\Basics.genruntimeconfig.cache
+C:\Users\msi\OneDrive\Bureau\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Functions\Basics\obj\Debug\net7.0\ref\Basics.dll

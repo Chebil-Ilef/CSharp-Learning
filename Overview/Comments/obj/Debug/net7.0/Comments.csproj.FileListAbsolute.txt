@@ -1,0 +1,16 @@
+C:\Users\msi\OneDrive\Bureau\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Overview\Comments\bin\Debug\net7.0\Comments.exe
+C:\Users\msi\OneDrive\Bureau\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Overview\Comments\bin\Debug\net7.0\Comments.deps.json
+C:\Users\msi\OneDrive\Bureau\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Overview\Comments\bin\Debug\net7.0\Comments.runtimeconfig.json
+C:\Users\msi\OneDrive\Bureau\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Overview\Comments\bin\Debug\net7.0\Comments.dll
+C:\Users\msi\OneDrive\Bureau\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Overview\Comments\bin\Debug\net7.0\Comments.pdb
+C:\Users\msi\OneDrive\Bureau\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Overview\Comments\bin\Debug\net7.0\Comments.xml
+C:\Users\msi\OneDrive\Bureau\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Overview\Comments\obj\Debug\net7.0\Comments.csproj.AssemblyReference.cache
+C:\Users\msi\OneDrive\Bureau\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Overview\Comments\obj\Debug\net7.0\Comments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msi\OneDrive\Bureau\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Overview\Comments\obj\Debug\net7.0\Comments.AssemblyInfoInputs.cache
+C:\Users\msi\OneDrive\Bureau\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Overview\Comments\obj\Debug\net7.0\Comments.AssemblyInfo.cs
+C:\Users\msi\OneDrive\Bureau\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Overview\Comments\obj\Debug\net7.0\Comments.csproj.CoreCompileInputs.cache
+C:\Users\msi\OneDrive\Bureau\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Overview\Comments\obj\Debug\net7.0\Comments.dll
+C:\Users\msi\OneDrive\Bureau\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Overview\Comments\obj\Debug\net7.0\refint\Comments.dll
+C:\Users\msi\OneDrive\Bureau\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Overview\Comments\obj\Debug\net7.0\Comments.pdb
+C:\Users\msi\OneDrive\Bureau\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Overview\Comments\obj\Debug\net7.0\Comments.genruntimeconfig.cache
+C:\Users\msi\OneDrive\Bureau\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Overview\Comments\obj\Debug\net7.0\ref\Comments.dll

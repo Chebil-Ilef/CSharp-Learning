@@ -1,0 +1,16 @@
+C:\Users\msi\OneDrive\Bureau\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Overview\VarsAndData\obj\Debug\net5.0\VarsAndData.csproj.AssemblyReference.cache
+C:\Users\msi\OneDrive\Bureau\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Overview\VarsAndData\obj\Debug\net5.0\VarsAndData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msi\OneDrive\Bureau\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Overview\VarsAndData\obj\Debug\net5.0\VarsAndData.AssemblyInfoInputs.cache
+C:\Users\msi\OneDrive\Bureau\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Overview\VarsAndData\obj\Debug\net5.0\VarsAndData.AssemblyInfo.cs
+C:\Users\msi\OneDrive\Bureau\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Overview\VarsAndData\obj\Debug\net5.0\VarsAndData.csproj.CoreCompileInputs.cache
+C:\Users\msi\OneDrive\Bureau\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Overview\VarsAndData\bin\Debug\net5.0\VarsAndData.exe
+C:\Users\msi\OneDrive\Bureau\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Overview\VarsAndData\bin\Debug\net5.0\VarsAndData.deps.json
+C:\Users\msi\OneDrive\Bureau\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Overview\VarsAndData\bin\Debug\net5.0\VarsAndData.runtimeconfig.json
+C:\Users\msi\OneDrive\Bureau\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Overview\VarsAndData\bin\Debug\net5.0\VarsAndData.runtimeconfig.dev.json
+C:\Users\msi\OneDrive\Bureau\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Overview\VarsAndData\bin\Debug\net5.0\VarsAndData.dll
+C:\Users\msi\OneDrive\Bureau\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Overview\VarsAndData\bin\Debug\net5.0\VarsAndData.pdb
+C:\Users\msi\OneDrive\Bureau\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Overview\VarsAndData\obj\Debug\net5.0\VarsAndData.dll
+C:\Users\msi\OneDrive\Bureau\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Overview\VarsAndData\obj\Debug\net5.0\refint\VarsAndData.dll
+C:\Users\msi\OneDrive\Bureau\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Overview\VarsAndData\obj\Debug\net5.0\VarsAndData.pdb
+C:\Users\msi\OneDrive\Bureau\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Overview\VarsAndData\obj\Debug\net5.0\VarsAndData.genruntimeconfig.cache
+C:\Users\msi\OneDrive\Bureau\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Overview\VarsAndData\obj\Debug\net5.0\ref\VarsAndData.dll

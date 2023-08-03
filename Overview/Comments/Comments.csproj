@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net7.0</TargetFramework>
+    <!-- Generate documentation from comments -->
+   <GenerateDocumentationFile>true</GenerateDocumentationFile>
+   <DocumentationFile>Comments.xml</DocumentationFile>
+  
+  </PropertyGroup>
+
+</Project>

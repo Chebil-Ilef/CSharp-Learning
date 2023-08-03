@@ -1,0 +1,15 @@
+C:\Users\msi\OneDrive\Bureau\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Program Flow\Conditional-switch\bin\Debug\net7.0\ConditionalOps.exe
+C:\Users\msi\OneDrive\Bureau\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Program Flow\Conditional-switch\bin\Debug\net7.0\ConditionalOps.deps.json
+C:\Users\msi\OneDrive\Bureau\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Program Flow\Conditional-switch\bin\Debug\net7.0\ConditionalOps.runtimeconfig.json
+C:\Users\msi\OneDrive\Bureau\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Program Flow\Conditional-switch\bin\Debug\net7.0\ConditionalOps.dll
+C:\Users\msi\OneDrive\Bureau\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Program Flow\Conditional-switch\bin\Debug\net7.0\ConditionalOps.pdb
+C:\Users\msi\OneDrive\Bureau\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Program Flow\Conditional-switch\obj\Debug\net7.0\ConditionalOps.csproj.AssemblyReference.cache
+C:\Users\msi\OneDrive\Bureau\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Program Flow\Conditional-switch\obj\Debug\net7.0\ConditionalOps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msi\OneDrive\Bureau\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Program Flow\Conditional-switch\obj\Debug\net7.0\ConditionalOps.AssemblyInfoInputs.cache
+C:\Users\msi\OneDrive\Bureau\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Program Flow\Conditional-switch\obj\Debug\net7.0\ConditionalOps.AssemblyInfo.cs
+C:\Users\msi\OneDrive\Bureau\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Program Flow\Conditional-switch\obj\Debug\net7.0\ConditionalOps.csproj.CoreCompileInputs.cache
+C:\Users\msi\OneDrive\Bureau\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Program Flow\Conditional-switch\obj\Debug\net7.0\ConditionalOps.dll
+C:\Users\msi\OneDrive\Bureau\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Program Flow\Conditional-switch\obj\Debug\net7.0\refint\ConditionalOps.dll
+C:\Users\msi\OneDrive\Bureau\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Program Flow\Conditional-switch\obj\Debug\net7.0\ConditionalOps.pdb
+C:\Users\msi\OneDrive\Bureau\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Program Flow\Conditional-switch\obj\Debug\net7.0\ConditionalOps.genruntimeconfig.cache
+C:\Users\msi\OneDrive\Bureau\Ex_Files_Learning_C_Sharp\Exercise Files\Start\Program Flow\Conditional-switch\obj\Debug\net7.0\ref\ConditionalOps.dll
