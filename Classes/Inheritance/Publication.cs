@@ -34,8 +34,10 @@ namespace Inheritance
             }
         }
 
-        // TODO: use the "virtual" keyword to indicate that a method
+        // use the "virtual" keyword to indicate that a method
         // can be overridden by subclasses to customize behavior
-
+        public virtual string GetDescription() {
+            return $"{Name}, {PageCount} pages";
+        }
     }
 }
